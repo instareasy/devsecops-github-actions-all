@@ -1,0 +1,6 @@
+{
+     "sonarlint.connectedMode.project": {
+          "connectionId": "testorg-ravi",
+          "projectKey": "test-project-ravi"
+     }
+}
